@@ -3,13 +3,14 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Russell"
   given-names: "Benjamin Kenney"
-- family-names: "Muru"
-  given-names: "Merle"
-  orcid: https://orcid.org/0000-0002-4422-2639
 - family-names: "Virro"
   given-names: "Holger"
   orcid: https://orcid.org/0000-0001-6110-5453
+- family-names: "Muru"
+  given-names: "Merle"
+  orcid: https://orcid.org/0000-0002-4422-2639
 title: "Code supplement: Mapping Estonia's Coastal Ridges: A Deep Learning Approach"
 version: 1.0.0
+doi: 10.5281/zenodo.19496388
 date-released: 2026-04-10
 url: "https://github.com/LandscapeGeoinformatics/agile2026_ridge_segmentation"
